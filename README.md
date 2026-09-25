@@ -1,4 +1,4 @@
-# Aircraft Flight Data Analysis
+# Aircraft Flight Data Analysis: Telemetry & Anomaly Detection
 
 Python project for analysing generated and  A320  example flight trajectory data.
 
